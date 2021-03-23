@@ -26,5 +26,6 @@ Otro listado
 
 > Parrafo
 
-Aqui de ejemplo una imagen ![TextoAlternativo](design/DaSCI.png) de landing page o logotipo
+Aqui de ejemplo una imagen ![TextoAlternativo](design/DaSCI_logo.png) de landing page o logotipo
+
 Aqui de ejemplo un enlace a la [UGR](https://wwww.ugr.es/)
