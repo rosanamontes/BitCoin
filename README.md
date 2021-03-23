@@ -1,5 +1,5 @@
 # BitCoin
-Por si me forro en el futuro
+Por si me **forro en el futuro**
 
 ## Titulo 2
 
@@ -26,7 +26,7 @@ Otro listado
 
 > Parrafo
 
-Aqui de ejemplo una imagen ![TextoAlternativo](design/DaSCI_logo.png) de landing page o logotipo
+Aqui de ejemplo una *imagen ![TextoAlternativo](design/DaSCI_logo.png) de landing page* o logotipo
 
 Aqui de ejemplo un enlace a la [UGR](https://wwww.ugr.es/)
 
